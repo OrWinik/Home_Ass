@@ -1,5 +1,7 @@
 The project is avialable to try out in Itch io : https://orwinik.itch.io/homeass-mocart
 
+* To change the values of the products you need to enter the box numbber to change 1 2 or 3 and then enter the values and press submit, the changes wont apply if there isnt a product in the box you entered.
+
 To run the project on a local machine you need to :
 
 1. Clone this repository from GitHub
